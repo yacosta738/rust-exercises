@@ -17,9 +17,10 @@ pub fn create_buffer(count: usize) -> Vec<u8> {
 pub fn fibonacci() -> Vec<u8> {
     //calculate the fibonacci sequence
     let mut fibonacci_sequence = create_empty();
+    let n = 5;
     fibonacci_sequence.push(1);
     fibonacci_sequence.push(1);
-    for i in 2..5 {
+    for i in 2..n {
         fibonacci_sequence.push(fibonacci_sequence[i - 1] + fibonacci_sequence[i - 2]);
     }
     fibonacci_sequence
