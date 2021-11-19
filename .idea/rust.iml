@@ -15,12 +15,30 @@
       <sourceFolder url="file://$MODULE_DIR$/gigasecond/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/reverse-string/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/reverse-string/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/magazine-cutout/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/magazine-cutout/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/armstrong-numbers/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/armstrong-numbers/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rpn-calculator/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rpn-calculator/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/difference-of-squares/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/difference-of-squares/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/leap/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leap/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/nth-prime/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/nth-prime/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/health-statistics/target" />
       <excludeFolder url="file://$MODULE_DIR$/short-fibonacci/target" />
       <excludeFolder url="file://$MODULE_DIR$/low-power-embedded-game/target" />
       <excludeFolder url="file://$MODULE_DIR$/role-playing-game/target" />
       <excludeFolder url="file://$MODULE_DIR$/reverse-string/target" />
       <excludeFolder url="file://$MODULE_DIR$/gigasecond/target" />
+      <excludeFolder url="file://$MODULE_DIR$/magazine-cutout/target" />
+      <excludeFolder url="file://$MODULE_DIR$/armstrong-numbers/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rpn-calculator/target" />
+      <excludeFolder url="file://$MODULE_DIR$/leap/target" />
+      <excludeFolder url="file://$MODULE_DIR$/difference-of-squares/target" />
+      <excludeFolder url="file://$MODULE_DIR$/nth-prime/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
