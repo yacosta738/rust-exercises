@@ -27,6 +27,14 @@
       <sourceFolder url="file://$MODULE_DIR$/leap/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/nth-prime/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/nth-prime/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/beer-song/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/beer-song/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/clock/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/clock/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/matching-brackets/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/matching-brackets/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/sum-of-multiples/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sum-of-multiples/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/health-statistics/target" />
       <excludeFolder url="file://$MODULE_DIR$/short-fibonacci/target" />
       <excludeFolder url="file://$MODULE_DIR$/low-power-embedded-game/target" />
@@ -39,6 +47,10 @@
       <excludeFolder url="file://$MODULE_DIR$/leap/target" />
       <excludeFolder url="file://$MODULE_DIR$/difference-of-squares/target" />
       <excludeFolder url="file://$MODULE_DIR$/nth-prime/target" />
+      <excludeFolder url="file://$MODULE_DIR$/clock/target" />
+      <excludeFolder url="file://$MODULE_DIR$/beer-song/target" />
+      <excludeFolder url="file://$MODULE_DIR$/sum-of-multiples/target" />
+      <excludeFolder url="file://$MODULE_DIR$/matching-brackets/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
