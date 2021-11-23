@@ -35,6 +35,8 @@
       <sourceFolder url="file://$MODULE_DIR$/matching-brackets/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/sum-of-multiples/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/sum-of-multiples/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/bob/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bob/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/health-statistics/target" />
       <excludeFolder url="file://$MODULE_DIR$/short-fibonacci/target" />
       <excludeFolder url="file://$MODULE_DIR$/low-power-embedded-game/target" />
@@ -51,6 +53,7 @@
       <excludeFolder url="file://$MODULE_DIR$/beer-song/target" />
       <excludeFolder url="file://$MODULE_DIR$/sum-of-multiples/target" />
       <excludeFolder url="file://$MODULE_DIR$/matching-brackets/target" />
+      <excludeFolder url="file://$MODULE_DIR$/bob/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
