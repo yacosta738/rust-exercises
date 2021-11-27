@@ -37,6 +37,10 @@
       <sourceFolder url="file://$MODULE_DIR$/sum-of-multiples/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/bob/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/bob/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/high-scores/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/high-scores/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/prime-factors/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/prime-factors/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/health-statistics/target" />
       <excludeFolder url="file://$MODULE_DIR$/short-fibonacci/target" />
       <excludeFolder url="file://$MODULE_DIR$/low-power-embedded-game/target" />
@@ -54,6 +58,8 @@
       <excludeFolder url="file://$MODULE_DIR$/sum-of-multiples/target" />
       <excludeFolder url="file://$MODULE_DIR$/matching-brackets/target" />
       <excludeFolder url="file://$MODULE_DIR$/bob/target" />
+      <excludeFolder url="file://$MODULE_DIR$/prime-factors/target" />
+      <excludeFolder url="file://$MODULE_DIR$/high-scores/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
